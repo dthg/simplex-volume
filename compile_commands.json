@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dtg/src/simplex_volume/build",
+  "command": "/usr/bin/c++    -I/home/dtg/src/simplex_volume/src -isystem /usr/local/include/eigen3    -std=gnu++11 -o CMakeFiles/app.dir/main.cpp.o -c /home/dtg/src/simplex_volume/main.cpp",
+  "file": "/home/dtg/src/simplex_volume/main.cpp"
+}
+]
